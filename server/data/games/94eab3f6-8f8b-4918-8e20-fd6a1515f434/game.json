@@ -1,0 +1,429 @@
+{
+  "version": 1,
+  "title": "mfw",
+  "rounds": [
+    {
+      "id": "mu12hhgy-i3cqrzf2hsbj7jp8",
+      "name": "Jeopardy",
+      "values": [
+        100,
+        200,
+        300,
+        400,
+        500
+      ],
+      "categories": [
+        {
+          "id": "mu12hhgy-m3lc5cvawv1gyb32",
+          "name": "Lost in translation",
+          "clues": [
+            {
+              "id": "mu12hhgy-bzb1dxtcrgd3buc2",
+              "text": "I will never give up\nI will never break up with you\nI will never leave you\nI will never cry\nI will never say goodbye\nI will never lie to you or hurt you",
+              "answer": "Never Gonna Give You Up - Rick Astley "
+            },
+            {
+              "id": "mu12hhgy-3l3k93pw99c3zf0f",
+              "text": "I just want to possess you.\nThis desire far exceeds your imagination.\nPlease fulfill my wish.\nThis Christmas, all I want is you.",
+              "answer": "All I Want for Christmas is You - Mariah Carey"
+            },
+            {
+              "id": "mu12hhgy-vw5gtojsxuhfqetx",
+              "text": "I will likely never dance again.\nthere is no rhythm in a step weighed down by guilt.\nIt is easy enough to feign indifference,\nbut I know you are no fool.",
+              "answer": "Careless Whisper - George Michael"
+            },
+            {
+              "id": "mu12hhgy-8i7fn5d4mhy39le7",
+              "text": "I love the curves of your body\nWe attract and repel each other like magnets\nEven though my heart agrees\nI love you",
+              "answer": "Shape of You - Ed Sheeran"
+            },
+            {
+              "id": "mu12hhgy-4l0v7qef162x7309",
+              "text": "Is this reality? Or just a dream?\nTrapped in an avalanche of adversity, unable to escape reality\nOpen my eyes, look up at the heavens, and see for myself\nI’m just a boy in poverty; I don't need any sympathy\nFor my life comes and goes in a flash, fleeting and brief\nSometimes soaring high, sometimes hitting rock bottom",
+              "answer": "Bohemian Rhapsody - Queen"
+            }
+          ]
+        },
+        {
+          "id": "mu12hhgy-dkf2ddvsofbw3c11",
+          "name": "blame imdb",
+          "clues": [
+            {
+              "id": "mu12hhgy-cpi6dsdxf7zvpyli",
+              "text": "A grumpy old man turns his house into an airship using balloons and flies off to South America with a young stowaway.",
+              "answer": "Up"
+            },
+            {
+              "id": "mu12hhgy-rp8umdshuevs4o2f",
+              "text": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+              "answer": "Forrest Gump"
+            },
+            {
+              "id": "mu12hhgy-5v5o9jcav9yrlt7e",
+              "text": "After being shot by a resentful former patient whom he failed to help, a Philadelphia child psychologist seeks redemption by treating a young boy with a disturbing secret.",
+              "answer": "The Sixth Sense"
+            },
+            {
+              "id": "mu12hhgy-esg3vv5vsvhusbqn",
+              "text": "A widowed lawyer in Depression-era Alabama defends a black man against a false rape charge while teaching his young children about the sad reality of prejudice.",
+              "answer": "To Kill A Mockingbird"
+            },
+            {
+              "id": "mu12hhgy-yxku52dyjs5atvf4",
+              "text": "A diverse group of immigrants and foreigners learn English at an adult education school in London.",
+              "answer": "Mind Your Language"
+            }
+          ]
+        },
+        {
+          "id": "mu12hhgy-2jo0nqmsprwoxt4n",
+          "name": "Spelling bee",
+          "clues": [
+            {
+              "id": "mu12hhgy-t361h4bn0pg31shq",
+              "text": "Information, understanding, or skill that you get from experience or education",
+              "answer": "Knowledge"
+            },
+            {
+              "id": "mu12hhgy-7qacojnxfeb39apq",
+              "text": "Emptiness of space",
+              "answer": "Vacuum"
+            },
+            {
+              "id": "mu12hhgy-prmesl5v7s4vdwqy",
+              "text": "Causing a feeling of self-conscious confusion and distress",
+              "answer": "Embarrassing"
+            },
+            {
+              "id": "mu12hhgy-onraynu5xgo28zqi",
+              "text": "A body of nonelected government officials",
+              "answer": "Bureaucracy "
+            },
+            {
+              "id": "mu12hhgy-r4sqg310l4g5q98l",
+              "text": "Existing or being everywhere at the same time : constantly encountered",
+              "answer": "Ubiquitous"
+            }
+          ]
+        },
+        {
+          "id": "mu12hhgy-fgikou0f4zqc4kg6",
+          "name": "Cartoons",
+          "clues": [
+            {
+              "id": "mu12hhgy-o5xjd3sogmi8v3iz",
+              "text": "What channel was Tom & Jerry broadcasted on",
+              "answer": "Cartoon Network"
+            },
+            {
+              "id": "mu12hhgy-3h20e7npl8dxkjs1",
+              "text": "Name all 5 Teen Titans",
+              "answer": "Robin, Starfire, Cyborg, Beast Boy, Raven"
+            },
+            {
+              "id": "mu12hhgy-ia65g34qnbxofa1p",
+              "text": "What is the full name of this character",
+              "answer": "Wile E. Coyote ",
+              "media": {
+                "kind": "image",
+                "file": "73452664-5c24-46c4-ab32-acf43304e5cc.webp"
+              },
+              "autoShowMedia": true
+            },
+            {
+              "id": "mu12hhgy-ww8rdhra36jffvku",
+              "text": "How many fingers/toes does Courage the Cowardly Dog have",
+              "answer": "3"
+            },
+            {
+              "id": "mu12hhgy-bm7d37slhxuuu0kt",
+              "text": "Name all 10 Ben 10 Aliens",
+              "answer": "Heatblast, Wildmutt, Diamondhead, XLR8, Grey Matter, Four Arms, Stinkfly, Ripjaws, Upgrade, and Ghostfreak"
+            }
+          ]
+        },
+        {
+          "id": "mu12hhgy-8d22usawfiqrym97",
+          "name": "flags",
+          "clues": [
+            {
+              "id": "mu12hhgy-4bwvbvxxsedky1br",
+              "text": "What country is this",
+              "answer": "Brunei",
+              "media": {
+                "kind": "image",
+                "file": "47bc0aa6-b7ae-4326-ada8-38285de29357.svg"
+              }
+            },
+            {
+              "id": "mu12hhgy-anpr8wlllavacty0",
+              "text": "What country this",
+              "answer": "Poland",
+              "media": {
+                "kind": "image",
+                "file": "08c4557c-331c-462b-a58b-592b0c27978c.png"
+              }
+            },
+            {
+              "id": "mu12hhgy-20ui27osg1hatw17",
+              "text": "What country is this",
+              "answer": "Sri Lanka",
+              "media": {
+                "kind": "image",
+                "file": "8ab905d0-9665-4a3e-ab06-2b3af426b609.png"
+              }
+            },
+            {
+              "id": "mu12hhgy-jghjiw4vebhmahi0",
+              "text": "What country this",
+              "answer": "Vatican City",
+              "media": {
+                "kind": "image",
+                "file": "1539ccac-70a2-4f45-9ee0-6b0e66cd12c9.svg"
+              }
+            },
+            {
+              "id": "mu12hhgy-tw74txobbtdh4enj",
+              "text": "What country this",
+              "answer": "Barbados",
+              "media": {
+                "kind": "image",
+                "file": "1237f797-8c45-4960-9a64-652a03a362a1.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d19dd059-39f1-4083-9055-f504826d9295",
+      "name": "Double Jeopardy",
+      "values": [
+        200,
+        400,
+        600,
+        800,
+        1000
+      ],
+      "categories": [
+        {
+          "id": "353ef0a7-b1ae-45b8-aa31-b283dd612ce3",
+          "name": "Sec Sch",
+          "clues": [
+            {
+              "id": "b5e4ad7f-9f66-462d-9403-53212b9b1d58",
+              "text": "What was the motto of Fairfield Methodist School (Secondary)",
+              "answer": "Pure & Honest"
+            },
+            {
+              "id": "2ba51afe-2c1f-43f3-b160-a2cff57aa645",
+              "text": "What is the name of this snack (Spell it)",
+              "answer": "Combe Snack",
+              "media": {
+                "kind": "image",
+                "file": "f430fab2-f539-4459-9837-60d175fa39c9.png"
+              }
+            },
+            {
+              "id": "d07546d5-d3d4-4c51-b2aa-d08ed24fa39e",
+              "text": "Name 5 female teachers and 5 male teachers.",
+              "answer": "."
+            },
+            {
+              "id": "369731e4-03f2-482d-8b78-3dac3097d6aa",
+              "text": "Complete the lyrics",
+              "answer": "And we learn that only busy folks",
+              "media": {
+                "kind": "image",
+                "file": "cd65776a-9144-41b7-b742-18c0847d2e57.png"
+              }
+            },
+            {
+              "id": "d49645a2-8dbf-4fbb-983e-57dbdc605673",
+              "text": "What's the address of Fairfield Methodist School (Secondary)",
+              "answer": "102 Dover Road"
+            }
+          ]
+        },
+        {
+          "id": "39d7f0c8-79a4-4e61-9283-3dad6ec42973",
+          "name": "Singapore",
+          "clues": [
+            {
+              "id": "95624b24-beaf-4038-b0b6-4daddc130a96",
+              "text": "Who's face is on the note of the $1000 bill",
+              "answer": "Yusof bin Ishak"
+            },
+            {
+              "id": "87df771d-3b51-40f9-871e-b2f41e140e6e",
+              "text": "How many MRT lines are there (not including LRT)",
+              "answer": "6. EW, NS, NE, TEL, DTL, CCL."
+            },
+            {
+              "id": "26c24b38-a21f-4015-b237-7695e71280d0",
+              "text": "What is the tallest natural peak (hill) in Singapore",
+              "answer": "Bukit Timah Hill"
+            },
+            {
+              "id": "f8998ec7-ada5-426e-ac30-6f63568f9bd5",
+              "text": "What is the second tallest natural peak (hill) in Singapore",
+              "answer": "Bukit Gombak"
+            },
+            {
+              "id": "a848158b-b453-43c4-9492-19d55cde067e",
+              "text": "How many shopping malls are there in Singapore (Get within 50)",
+              "answer": "There are 424"
+            }
+          ]
+        },
+        {
+          "id": "1cb3e66d-38e1-490d-b0aa-95258fb66a4f",
+          "name": "attention span",
+          "clues": [
+            {
+              "id": "7924ab0b-a321-4ccb-8373-60d1deab9faf",
+              "text": "What gun and what skin was lengniao using in the clip",
+              "answer": "Reaver Vandal",
+              "media": {
+                "kind": "video",
+                "file": "eebb3d2b-486a-4861-ae58-8c66a9774636.mp4"
+              },
+              "hideText": true
+            },
+            {
+              "id": "54b30f1d-2b2f-4b08-b852-02447c79a9e2",
+              "text": "What was the Pokemon that I encountered in the tall grass",
+              "answer": "Nidoran F",
+              "media": {
+                "kind": "video",
+                "file": "ca3cad98-e480-44b5-a580-04ffb88a7076.mp4"
+              },
+              "hideText": true
+            },
+            {
+              "id": "e7dde66a-c1c7-4126-a3aa-a5e07aeda761",
+              "text": "Who was the person that died right before me?",
+              "answer": "Ezekiel",
+              "media": {
+                "kind": "video",
+                "file": "c2bfa2a0-635b-42d1-96e2-92061ffb7934.mp4"
+              },
+              "hideText": true
+            },
+            {
+              "id": "a2dca191-b09a-4ba3-b5a1-3a003d9ede26",
+              "text": "What was the number on the countdown when Ezekiel left for the toilet (Get within 2s)",
+              "answer": "63",
+              "media": {
+                "kind": "video",
+                "file": "239ca95a-ef57-43d0-b9f8-2124cb919f10.mp4"
+              },
+              "hideText": true
+            },
+            {
+              "id": "d6876dd1-e032-4491-8981-6a92253ba2dc",
+              "text": "How many times did Danzel and I OPEN the door (1x open 1x close = 1x) while we were BOTH playing with it (Danzel was still spamming the door after i stopped, idc abt that) Get within 3.",
+              "answer": "9",
+              "media": {
+                "kind": "video",
+                "file": "8b23021b-c05e-4b00-9209-0c5a931326c0.mp4"
+              },
+              "hideText": true
+            }
+          ]
+        },
+        {
+          "id": "12dbf38d-25ad-4cb8-9d51-b8afb276f9c2",
+          "name": "shazam",
+          "clues": [
+            {
+              "id": "bc1ce680-76ba-42c3-9cce-b5cf806f10e3",
+              "text": "What's the title of this song.",
+              "answer": "Majulah Singapura",
+              "media": {
+                "kind": "audio",
+                "file": "b6226df4-dc47-4d88-bed9-8233a5551165.mp3"
+              }
+            },
+            {
+              "id": "23fa908a-2115-4a2f-b939-0247e66fdafc",
+              "text": "Where is this song played?",
+              "answer": "League of Legends Champion Select Music",
+              "media": {
+                "kind": "audio",
+                "file": "a5117474-c43e-49ab-a726-237431ea769b.mp3"
+              }
+            },
+            {
+              "id": "b71ec444-a979-43e8-9245-11bb57396882",
+              "text": "What is the title of the ORIGINAL song?",
+              "answer": "What's up? - 4 Non Blondes.",
+              "media": {
+                "kind": "audio",
+                "file": "775050dd-dad3-4379-8a38-de50d7079f08.mp3"
+              }
+            },
+            {
+              "id": "c789ab5f-d9e7-4eb5-8d67-130242fa3ce9",
+              "text": "What is the title of this piece",
+              "answer": "Caravan",
+              "media": {
+                "kind": "audio",
+                "file": "5ae48814-af9b-4798-b1a5-aec59bac1ea8.mp3"
+              }
+            },
+            {
+              "id": "5e279d19-cbfc-4bf0-8205-b4d8e3a24e97",
+              "text": "What is the name of this piece",
+              "answer": "Caprice No. 24 - Paganini",
+              "media": {
+                "kind": "audio",
+                "file": "4affc41b-69b2-4544-ab7d-3f465afd4a46.mp3"
+              }
+            }
+          ]
+        },
+        {
+          "id": "18e687da-dbe7-4453-8b48-5c9c8c9a3a4b",
+          "name": "ESPORTS",
+          "clues": [
+            {
+              "id": "d8634917-b3c8-4856-8b07-929a34f6138e",
+              "text": "What is this persons irl name",
+              "answer": "Lee Sang Hyeok",
+              "media": {
+                "kind": "image",
+                "file": "5c53a847-5112-4afe-bba6-8a3e82842516.jpg"
+              }
+            },
+            {
+              "id": "91c5bd97-dc7a-4826-8cf9-52e27e95e54d",
+              "text": "What is the name of the Valorant female tournament",
+              "answer": "VCT Game Changers"
+            },
+            {
+              "id": "d1c0ce3c-1774-4b9e-b0ff-13cd076f6508",
+              "text": "How many LCK titles does Faker have to his name",
+              "answer": "10"
+            },
+            {
+              "id": "a82b59ae-89f4-4b28-8f47-86d50f4f9485",
+              "text": "What was the longest single map in professional Counter-Strike 2 (2 ah i highlight alr) history. (Within 5 rounds)",
+              "answer": "71 Rounds. M80 vs. Fnatic on Anubis in ESL Pro League Season 20 (2024)"
+            },
+            {
+              "id": "14143d83-0bf4-471a-9c8e-52a1879e3610",
+              "text": "What was the name of the first esports tournament event to ever be hosted?",
+              "answer": " Intergalactic Spacewar Olympics"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Space",
+    "text": "Jupiter has many moons. How many moons exactly does jupiter have? (Get within 10)",
+    "answer": "115 Moons"
+  }
+}

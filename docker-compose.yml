@@ -1,0 +1,13 @@
+services:
+  jeopardy:
+    build: .
+    container_name: jeopardy
+    restart: unless-stopped
+    # run as your host user so files in ./data stay owned by you
+    user: "${PUID:-1000}:${PGID:-1000}"
+    ports:
+      # 0.0.0.0 = listen on every interface so other machines on the LAN can connect
+      - "0.0.0.0:${JEOPARDY_PORT:-8080}:8080"
+    volumes:
+      # saved games (game.json + media) live here on the host
+      - ./data:/data
