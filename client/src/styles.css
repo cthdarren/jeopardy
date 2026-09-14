@@ -606,13 +606,14 @@ th.value-col {
 .board {
   flex: 1;
   display: grid;
-  gap: 6px;
-  padding: 6px;
+  gap: clamp(6px, 0.8vw, 14px);
+  padding: clamp(12px, 3vh, 40px) clamp(12px, 3.5vw, 64px);
   background: var(--stage);
 }
 .board-category {
   background: var(--board-category);
-  border-radius: 6px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(62, 70, 116, 0.1);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -625,13 +626,14 @@ th.value-col {
   font-size: clamp(14px, 1.8vw, 34px);
   line-height: 1.1;
   letter-spacing: 0.5px;
-  margin-bottom: 4px;
+  margin-bottom: clamp(4px, 0.8vh, 12px);
   overflow-wrap: anywhere;
 }
 .board-cell {
   font-family: var(--font-board);
   background: var(--board-cell);
-  border-radius: 6px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(62, 70, 116, 0.1);
   border: none;
   color: var(--board-value);
   font-size: clamp(20px, 4.2vw, 80px);
@@ -646,6 +648,7 @@ th.value-col {
 .board-cell.used {
   cursor: default;
   background: var(--board-cell-used);
+  box-shadow: none;
 }
 .board-cell.used:hover {
   filter: brightness(1.02);
