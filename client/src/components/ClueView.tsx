@@ -22,7 +22,7 @@ export default function ClueView({ gameId, heading, text, media, answer, reveale
   return (
     <div className="clue-view">
       <div className="clue-heading">{heading}</div>
-      <div className="clue-content">
+      <div className={`clue-content${media && mediaShown && media.kind !== 'audio' ? ' has-media' : ''}`}>
         {text &&
           (textShown ? (
             <div className={`clue-text size-${media ? 'sm' : textSize(text)}`}>{text}</div>

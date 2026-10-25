@@ -691,7 +691,6 @@ th.value-col {
 }
 .clue-text {
   font-family: var(--font-clue);
-  text-transform: uppercase;
   color: var(--clue-text);
   line-height: 1.25;
   max-width: 1600px;
@@ -709,15 +708,19 @@ th.value-col {
 .clue-text.size-sm {
   font-size: clamp(16px, 2.1vw, 40px);
 }
+.clue-content.has-media {
+  padding: 1.5vh 1.5vw;
+  gap: 1.5vh;
+}
+/* fill the leftover space; object-fit keeps the aspect ratio, drop-shadow follows the visible pixels */
 .clue-media.media-image,
 .clue-media.media-video {
-  flex: 0 1 auto;
-  min-height: 80px;
-  max-height: 60vh;
-  max-width: 100%;
+  flex: 1 1 0;
+  min-height: 30vh;
+  width: 100%;
+  max-width: none;
   object-fit: contain;
-  border-radius: 8px;
-  box-shadow: 0 6px 24px rgba(62, 70, 116, 0.18);
+  filter: drop-shadow(0 6px 18px rgba(62, 70, 116, 0.18));
 }
 .media-placeholder {
   font-family: var(--font-board);
