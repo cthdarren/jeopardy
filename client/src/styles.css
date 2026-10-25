@@ -726,7 +726,7 @@ th.value-col {
   font-family: var(--font-board);
   font-size: clamp(20px, 2.6vw, 48px);
   color: var(--board-value);
-  padding: 4vh 5vw;
+  padding: 0;
   border: 3px dashed rgba(85, 96, 154, 0.35);
   border-radius: 16px;
 }

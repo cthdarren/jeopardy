@@ -27,13 +27,13 @@ export default function ClueView({ gameId, heading, text, media, answer, reveale
           (textShown ? (
             <div className={`clue-text size-${media ? 'sm' : textSize(text)}`}>{text}</div>
           ) : (
-            <div className="media-placeholder">Question</div>
+            <div className="media-placeholder"></div>
           ))}
         {media &&
           (mediaShown ? (
             <MediaView key={media.file} gameId={gameId} media={media} className="clue-media" />
           ) : (
-            <div className="media-placeholder">{mediaLabel[media.kind]}</div>
+            <div className="media-placeholder"></div>
           ))}
         {revealed && <div className="clue-answer">{answer || <em>(no answer set)</em>}</div>}
       </div>
