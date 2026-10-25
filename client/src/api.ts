@@ -44,6 +44,7 @@ export const api = {
   deleteGame: (id: string) => request<void>(`/api/games/${id}`, { method: 'DELETE' }),
   duplicateGame: (id: string) => request<{ id: string }>(`/api/games/${id}/duplicate`, { method: 'POST' }),
   exportUrl: (id: string) => `/api/games/${id}/export`,
+  cheatsheetUrl: (id: string) => `/api/games/${id}/cheatsheet`,
   importGame: (file: File, onProgress?: (f: number) => void) =>
     upload<{ id: string }>('/api/games/import', file, onProgress),
   uploadMedia: (id: string, file: File, onProgress?: (f: number) => void) =>

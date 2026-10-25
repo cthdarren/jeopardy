@@ -4,6 +4,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import type { MediaKind, MediaRef } from '../../../shared/types';
 import { exportGame, importBundle } from '../bundle';
+import { exportCheatsheet } from '../cheatsheet';
 import {
   HttpError,
   TMP_DIR,
@@ -80,6 +81,10 @@ games.post('/:id/duplicate', async (req, res) => {
 
 games.get('/:id/export', async (req, res) => {
   await exportGame(req.params.id, res);
+});
+
+games.get('/:id/cheatsheet', async (req, res) => {
+  await exportCheatsheet(req.params.id, res);
 });
 
 games.post(

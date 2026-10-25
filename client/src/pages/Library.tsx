@@ -116,6 +116,9 @@ export default function Library() {
                   <a className="btn" href={api.exportUrl(g.id)} download>
                     Export
                   </a>
+                  <a className="btn" href={api.cheatsheetUrl(g.id)} download>
+                    Download Cheatsheet
+                  </a>
                   <button className="btn" onClick={() => act(async () => (await api.duplicateGame(g.id), refresh()))}>
                     Duplicate
                   </button>
